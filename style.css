@@ -108,7 +108,7 @@ h1, h2, h3{
 .header {
     position: relative;
     height: 95vh;
-    background: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.5)) , url('../Images/greg-rakozy-oMpAz-DN-9I-unsplash.jpg');
+    background: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.5)) , url('greg-rakozy-oMpAz-DN-9I-unsplash.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
